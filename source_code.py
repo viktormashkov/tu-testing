@@ -1,5 +1,5 @@
 import pandas as pd 
 
-df = pd.DataFrame()
+some_dataframe = pd.DataFrame()
 
-print(df)
+print(some_dataframe)
