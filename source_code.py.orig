@@ -1,0 +1,11 @@
+import pandas as pd 
+
+<<<<<<< HEAD
+some_dataframe = pd.DataFrame()
+
+print(some_dataframe)
+=======
+df = pd.DataFrame()
+
+print(df)
+>>>>>>> 7f3c2e22248ba4b463426caa8e5c7b52c531bc2e
